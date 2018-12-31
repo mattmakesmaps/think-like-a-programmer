@@ -2,6 +2,12 @@
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+
+    // MK NOTE: To use this launch configuration, select the file of interest
+    // in this case `ch2_decode_a_message.cpp` and run `Debug` --> `Start Debugging`
+    // Or press `F5`.
+
+    // Alternatively, use the `Debug` pane by clicking the debug icon at left.
     "version": "0.2.0",
     "configurations": [
         {

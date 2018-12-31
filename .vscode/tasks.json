@@ -8,7 +8,7 @@
             "type": "shell",
             "command": "g++",
             "args": [
-                "-g", "ch2_decode_a_message.cpp"
+                "-g", "ch2_decode_a_message.cpp" // `-g` flag produces debug info
             ],
             "group": {
                 "kind": "build",
